@@ -1,0 +1,11 @@
+ANDREA & CÉSAR — INVITACIÓN WEB
+
+Abre index.html para ver la invitación.
+La portada original está en assets/portada-aprobada.png y no se ha alterado.
+Ubicación: Local de Eventos Las Tejas.
+Confirmación individual: https://forms.gle/zCaUXWLs4MMSJzcH8
+Fecha límite sugerida: 14 de noviembre de 2026.
+
+IMPORTANTE: El formulario de Google debe configurarse por separado para que NO pregunte cantidad de personas. Revisa las preguntas y vincula las respuestas a Google Sheets. La fecha límite aparece en la web, pero no cierra automáticamente Google Forms.
+
+Para publicar gratis, sube el contenido de esta carpeta a un repositorio de GitHub Pages.
