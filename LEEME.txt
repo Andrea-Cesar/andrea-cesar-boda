@@ -1,7 +1,6 @@
-ANDREA & CÉSAR — INVITACIÓN WEB CON MÚSICA
+Andrea & César — sitio para el nuevo usuario de GitHub: andrea-cesar
 
-Sube index.html, LEEME.txt y la carpeta assets completa al repositorio GitHub (reemplaza index.html y conserva la portada).
-La canción se reproduce al pulsar «Activar música», debido a las restricciones de reproducción automática en navegadores.
-El botón flotante permite pausar y reanudar.
-La portada no se ha modificado.
+Sube index.html a la raíz del repositorio y los archivos de assets dentro de la carpeta assets. No subas el ZIP sin descomprimir.
+La portada, la música y los botones conservan su contenido.
+La vista previa de WhatsApp usa assets/vista-previa-whatsapp.jpg.
 La música se publica en internet: asegúrate de tener autorización para distribuirla públicamente.
