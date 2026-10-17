@@ -1,11 +1,7 @@
-ANDREA & CÉSAR — INVITACIÓN WEB
+ANDREA & CÉSAR — INVITACIÓN WEB CON MÚSICA
 
-Abre index.html para ver la invitación.
-La portada original está en assets/portada-aprobada.png y no se ha alterado.
-Ubicación: Local de Eventos Las Tejas.
-Confirmación individual: https://forms.gle/zCaUXWLs4MMSJzcH8
-Fecha límite sugerida: 14 de noviembre de 2026.
-
-IMPORTANTE: El formulario de Google debe configurarse por separado para que NO pregunte cantidad de personas. Revisa las preguntas y vincula las respuestas a Google Sheets. La fecha límite aparece en la web, pero no cierra automáticamente Google Forms.
-
-Para publicar gratis, sube el contenido de esta carpeta a un repositorio de GitHub Pages.
+Sube index.html, LEEME.txt y la carpeta assets completa al repositorio GitHub (reemplaza index.html y conserva la portada).
+La canción se reproduce al pulsar «Activar música», debido a las restricciones de reproducción automática en navegadores.
+El botón flotante permite pausar y reanudar.
+La portada no se ha modificado.
+La música se publica en internet: asegúrate de tener autorización para distribuirla públicamente.
