@@ -4,3 +4,5 @@ Sube index.html a la raíz del repositorio y los archivos de assets dentro de la
 La portada, la música y los botones conservan su contenido.
 La vista previa de WhatsApp usa assets/vista-previa-whatsapp.jpg.
 La música se publica en internet: asegúrate de tener autorización para distribuirla públicamente.
+
+Actualizacion: local Don Cuy y enlace de Google Maps corregido.
